@@ -1,7 +1,7 @@
 ### Hi there 👋
  🔭  Desarrollador .net
  
- 🌱  Actualmente me encuentro aprendiendo nuevas tecnologias y mejorando mi actuales habilidades en .Net 
+ 🌱  Actualmente me encuentro aprendiendo nuevas tecnologias y mejorando mi actuales habilidades
 <!--
 **ErickDiego/ErickDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🔭  Desarrollador .net
+ 🔭  Desarrollador Backend
  
  🌱  Actualmente me encuentro aprendiendo nuevas tecnologias y mejorando mi actuales habilidades
 <!--

@@ -29,7 +29,7 @@ Cuando no estoy programando, puedes encontrarme:
 
 ¡No dudes en conectarte conmigo en LinkedIn!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickneculhueque/)
 
 ---
 
